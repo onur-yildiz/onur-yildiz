@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<br/>
 
 - 📖 LinkedIn: <https://linkedin.com/in/onur-yildiz-929075142>
 
