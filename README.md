@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+I am a developer interested in mobile, front-end, and back-end development. I love to work on hobby projects after learning new techs. I worked on various projects that most of which are published here. I love etymology for my fascination with the history of languages and their cultural connections.
+
 - 📖 LinkedIn: <https://linkedin.com/in/onur-yildiz-929075142>
 
 - 📫 Mail: dev.onuryildiz@gmail.com
