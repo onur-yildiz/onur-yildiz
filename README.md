@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 - 📫 Mail: dev.onuryildiz@gmail.com
 
 - 🎲 [Wordist](https://play.google.com/store/apps/details?id=com.solwic.wordist)  - Word Puzzle Game for Android
+
+- 🔊 [Abbot](https://onur-yildiz.github.io/abbot/) - Discord Soundhorn/Music Bot
