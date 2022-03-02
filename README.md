@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 <!--
 **onur-yildiz/onur-yildiz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,5 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br/>
 
-[Wordist - Word Puzzle Game](https://play.google.com/store/apps/details?id=com.solwic.wordist)
+- 📖 LinkedIn: <https://linkedin.com/in/onur-yildiz-929075142>
+
+- 📫 Mail: dev.onuryildiz@gmail.com
+
+- 🎲 [Wordist](https://play.google.com/store/apps/details?id=com.solwic.wordist)  - Word Puzzle Game for Android
