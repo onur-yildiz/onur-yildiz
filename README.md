@@ -18,7 +18,7 @@ I am a developer interested in mobile, front-end, and back-end development. I lo
 
 - 📖 LinkedIn: <https://linkedin.com/in/onur-yildiz-929075142>
 
-- 📫 Mail: dev.onuryildiz@gmail.com
+- 📫 contact: dev.onuryildiz@gmail.com
 
 - 🎲 [Wordist](https://play.google.com/store/apps/details?id=com.solwic.wordist)  - Word Puzzle Game for Android
 
