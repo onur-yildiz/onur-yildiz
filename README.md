@@ -4,8 +4,6 @@
 
 - [Abbot](https://onur-yildiz.github.io/abbot/) - Discord Soundhorn/Music Bot
 
-<img src="https://komarev.com/ghpvc/?username=onur-yildiz&label=Profile%20views&color=b8056d&style=flat" alt="onur-yildiz" /> 
-
 <details>
 <summary><h3>More</h3></summary>
 
@@ -14,5 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=onur-yildiz&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=onur-yildiz&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=onur-yildiz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
+<img src="https://komarev.com/ghpvc/?username=onur-yildiz&label=Profile%20views&color=b8056d&style=flat" alt="onur-yildiz" /> 
 
 </details>
