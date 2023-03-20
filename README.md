@@ -3,7 +3,6 @@
 - [Wordist](https://play.google.com/store/apps/details?id=com.solwic.wordist)  - Word Puzzle Game for Android
 
 - [Abbot](https://onur-yildiz.github.io/abbot/) - Discord Soundhorn/Music Bot
-
 <details>
 <summary><h3>More</h3></summary>
 
