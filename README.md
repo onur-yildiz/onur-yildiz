@@ -1,4 +1,4 @@
-<h3 align="left">I am a full-stack developer. I love to work on hobby projects after learning new techs. I worked on various projects that most of which are published here.</h3>
+<h3 align="left">Fullstack Dev. You can find most of my hobby projects here.</h3>
 
 - [Wordist](https://play.google.com/store/apps/details?id=com.solwic.wordist)  - Word Puzzle Game for Android
 
