@@ -1,6 +1,6 @@
 <h3 align="left">Fullstack Dev. You can find most of my hobby projects here.</h3>
 
-- [Wordist](https://play.google.com/store/apps/details?id=com.solwic.wordist)  - Word Puzzle Game for Android
+- [Wordist](https://play.google.com/store/apps/details?id=com.solwic.wordist)  - Word Puzzle Game for Android (Unlisted, Retired)
 
 - [Abbot](https://onur-yildiz.github.io/abbot/) - Discord Soundhorn/Music Bot (Retired)
 <details>
